@@ -1,0 +1,10 @@
+body {
+  padding: 0;
+  margin: 0 0;
+  font-family: sans-serif;
+  background-image: url(images/background.png);
+  background-size: 100% 125%;
+  background-repeat: no-repeat;
+  background-position-y: 50px;
+  
+}
